@@ -567,7 +567,7 @@ header {
 }
 
 .badges img {
-    height: 100px;
+    height: 250px;
     border-radius: 5px;
     transition: transform 0.3s ease;
 }
